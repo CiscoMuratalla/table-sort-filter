@@ -7,7 +7,7 @@ import random
 #
 sys.path.append(os.getcwd())
 
-from aatest_output import Test_Output, Test_record
+from test_output import Test_Output, Test_record
 
 
 desc_choices = ('Cat', 'Dog', 'Pig', 'Horse', 'Mule')
