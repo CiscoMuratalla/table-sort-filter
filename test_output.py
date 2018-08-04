@@ -261,7 +261,7 @@ class Test_Output:
                       <body>
                       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search..." title="Type in a name">
                           <table border="1" id="myTable">
-<thead>
+
                                   <tr>
 
                       """.splitlines()
@@ -275,7 +275,7 @@ class Test_Output:
 
         html_output += """ \
                                    </tr>
-</thead>
+
 
                        """.splitlines()
         #
